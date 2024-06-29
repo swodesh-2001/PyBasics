@@ -1,4 +1,4 @@
-# Task 13 Numpy Basics
+# Numpy Basics
 
 ### Table of Contents
 - [Numpy Installation](#numpy-installation)
